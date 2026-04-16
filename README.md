@@ -3,7 +3,7 @@
 # Hi 👋, I'm Narcis
 ### 🏁 Code. Gym. BMW. Repeat. 🚀
 
-<img src="https://github-profile-trophy.vercel.app/?username=xnarcis08&theme=radical&column=7&margin-w=15" alt="trophies" />
+
 
 ---
 
