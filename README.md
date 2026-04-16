@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://www.php.net"><img src="https://skillicons.dev/icons?i=php,mysql,html,css,js,bootstrap" /></a>
   <br>
-  <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=py,react,ps,figma,github,git" /></a>
+  <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=py,ps,,github,git" /></a>
 </p>
 
 ---
